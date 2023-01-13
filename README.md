@@ -14,4 +14,4 @@ is presented and open there command promp and run command mvn test. After that p
 get Extent Report in HTML located in ExtentReports folder under project directory.
 
 This is screenshot of the report:
-![reportForGitHub](https://user-images.githubusercontent.com/97592838/212363242-61580bf5-f088-48b6-a0c1-f42ef5937b76.PNG)
+![reportForGitHub](https://user-images.githubusercontent.com/97592838/212363895-5647c021-5205-4ae4-9c5e-bb69cd90f7f4.PNG)
